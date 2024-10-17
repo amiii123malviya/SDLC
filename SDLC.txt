@@ -1,0 +1,74 @@
+SDLC
+(Software Development Life Cycle )
+
+1>Documentation
+2>Analysis
+3>UI/UX Design
+4>Sudo Code(English Lang)
+5>Start Code preferred Language for your software
+
+
+
+
+SDLC
+=Documentation
+=Designing/Planning
+     -Algo
+     -Flowchart
+     -Sudo Code
+=Code
+=Testing
+=Deployment/maintaining	
+
+Models of sdlc
+
+1.Waterfall model(top to down approach)taking too much time and costly and client interaction is none.
+
+2.Incremental model
+Project===>|---module1(it should be a complete Entity)(front-end)
+           |---module2(back-end)
+           |---module3
+Each Module should be verify by the costumer/client and maintenance cost is less and debugging is easy and consume less time as compare to waterfall 
+
+3.Prototype model(when client is not able to give the details properly):
+Base structure will show to client and let them decide and get their requirements and get the approval before starting the process
+--Maintenance cost is less 
+
+4.Agile model start sub-module together and it takes less time and maintenance 
+its framework or template is scrum and Kanban
+
+
+
+Jira
+
+Project(ecom)
+->Front-end
+->Back-end
+->Deployment
+
+Issue or type
+|->1.Epic(long term duration front-end)(epics child issue story)
+|->2.Story(Homepage more people, more time)
+|->3.Task(Individual person and less time)
+|->4.Bug(tester will  get this and we put it in bug)
+
+Collection of multiple issues is called as sprint(short term duration)
+
+
+Create_project
+Select software development
+scrum
+team management
+
+
+
+
+
+
+
+
+
+
+
+
+
